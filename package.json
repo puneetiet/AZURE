@@ -9,6 +9,7 @@
   "author": "puneet",
   "license": "MIT",
   "dependencies": {
+    "cypress": "^4.3.0",
     "newman": "^4.5.7"
   }
 }
